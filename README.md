@@ -6,3 +6,6 @@ Java - Todos códigos das aulas.
 
 # Aula 2.01 - Revisão de construtores e encapsulamento
 Construtores, Acesso a atributos e parâmetros.
+
+# Aula 2.02 - Revisão de Herança e Polimorfismo
+Herança e Polimorfismo (Sobrescrita e Sobrecarga).
