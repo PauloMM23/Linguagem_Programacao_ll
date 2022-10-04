@@ -1,0 +1,3 @@
+teste de gravação e leitura
+Editor de textos feito por Paulo André!
+GRAVAÇÃO, LEITURA E EXIBIÇÃO
